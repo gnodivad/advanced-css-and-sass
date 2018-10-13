@@ -21,7 +21,7 @@
             right: 4rem;
         }
 
-        @include respond(tab-port) {
+        @include respond(phone) {
             top: 3rem;
             right: 3rem;
         }
