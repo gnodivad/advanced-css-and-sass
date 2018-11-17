@@ -6,6 +6,7 @@
 
 -   Notours - https://notours-gnodivad.netlify.com
 -   Trillo - https://trillo-gnodivad.netlify.com
+-   Nexter - https://nexter-gnodivad.netlify.com
 
 ## Notes
 
